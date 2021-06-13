@@ -1,0 +1,30 @@
+body {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(imagenes/4.jpg);  /*Imágen principal de la página*/
+    background-size: 100% auto, 100%;  
+
+  }
+
+  /* Configuración de la imágen insertada(cuadro de Freud) */
+
+  .imagen3 {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1018px;
+    margin-top: 294px;
+    
+  }
+   /* Configuración de la imágen insertada(cuadro de libro) */
+ 
+  .imagen4 {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 680px;
+    margin-top: 402px;
+    
+  }
+  

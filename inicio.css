@@ -1,0 +1,25 @@
+body {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(imagenes/u33.jpg);
+    background-size:100% auto, 100%;      
+
+  }
+
+
+  .imagen2 {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 488px;
+    margin-top: 414px;    
+    font-family: 'Franklin Gothic Medium';
+    
+    
+  }
+ 
+  
+  
+ 
+  

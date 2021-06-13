@@ -1,0 +1,29 @@
+body {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(imagenes/1920.jpg);  /*Imagen principal del salón*/
+    background-size: 100% auto, 100%;  
+
+  }
+
+  .imagen3 {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 976px;
+    margin-top: 473px;
+    
+  }
+ 
+  .imagen4 {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 550px;
+    margin-top: 320px;
+    
+  }
+  
+
+
